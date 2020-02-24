@@ -1,10 +1,10 @@
-# 人機互動設計 Human-Computer Interaction Design
+# 1082【人機互動設計】@NCCU
 
 【課程筆記】政治大學數位內容與科技研究所 2020 年「人機互動設計」。
 
->週四 09:00-12:00
+> Human-Computer Interaction Design
 > 
-> 授課老師：陳宜秀
+> 週四 09:00-12:00｜授課老師：陳宜秀
 
 - 課程簡介
 - 人機互動概論: 溝通
