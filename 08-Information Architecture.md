@@ -1,4 +1,4 @@
-# 08 資訊架構
+# 【人機互動設計】08 資訊架構
 
 > **閱讀資料**
 > - Information Architecture: For the Web and Beyond [name=Rosenfeld, Louis; Morville, Peter; Arango, Jorge. O'Reilly Media]
@@ -8,7 +8,7 @@
 
 ---
 
-###### tags: `NCCU` `HCI`
+###### tags: `NCCU` `HCI` `人機互動設計課程`
 > 2020 年政治大學數位內容【人機互動設計】課程筆記
 > 
 > 週四 09:00-12:00｜授課老師：陳宜秀
